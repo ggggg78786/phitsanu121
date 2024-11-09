@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - พิษณุ เดชขันธ์</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .contact {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>นาย พิษณุ เดชขันธ์</h1>
+    <p>อายุ: 18 ปี</p>
+
+    <h2>เกี่ยวกับฉัน</h2>
+    <p>สวัสดีครับ! ผมชื่อพิษณุ เดชขันธ์ เป็นนักเรียนที่มีความสนใจในด้านการพัฒนาเว็บไซต์และเทคโนโลยีสารสนเทศ ผมกำลังเรียนรู้ทักษะใหม่ๆ เพื่อเตรียมตัวสำหรับอนาคตในสายอาชีพนี้</p>
+
+    <h2>ทักษะ</h2>
+    <ul>
+        <li>HTML, CSS, JavaScript</li>
+        <li>การออกแบบเว็บ</li>
+        <li>การใช้งานโปรแกรม Adobe Photoshop</li>
+        <li>การทำงานเป็นทีม</li>
+    </ul>
+
+    <h2>ผลงาน</h2>
+    <p>โปรเจคต่างๆ ที่ผมเคยทำ:</p>
+    <ul>
+        <li>เว็บไซต์ส่วนตัว</li>
+        <li>โปรเจคกลุ่มการพัฒนาเว็บ</li>
+        <li>แอปพลิเคชันที่ใช้ HTML และ JavaScript</li>
+    </ul>
+
+    <h2 class="contact">ข้อมูลติดต่อ</h2>
+    <p>อีเมล: pisanu@example.com</p>
+    <p>โทรศัพท์: 012-3456789</p>
+</div>
+
+</body>
+</html>
